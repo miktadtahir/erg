@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Erg Mühendislik - Yenileniyoruz!</title>
+        <title>Erg Mühendislik</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Erg Mühendislik - Yenileniyoruz!" />
         <p className="description">
          Çok Yakında <code>Burada</code>
         </p>
